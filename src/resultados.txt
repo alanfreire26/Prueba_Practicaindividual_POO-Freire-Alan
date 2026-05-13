@@ -1,0 +1,546 @@
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Acosta Hanna
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Andrade Hugo
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Atiencia Josue
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Balarrezo Diego
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Barrionuevo Job
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Bedoya Juan
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Bravo Samuel
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Cajiao Paulo
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Calvopina Brandon
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Castelo Katherine
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Chacha Victor
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Chiluiza Steed
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Dominguez Daniel
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Freire Alan
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Gualle Abisag
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Guaman Alexander
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Guanga Sebastian
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Guanotoa Karla
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Landeta Edison
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Lara Karen
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Loor Jhon
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Lopez Washington
+Nota 1: 9
+Nota 2: 9
+Nota 3: 9
+Nota 4: 9
+Nota 5: 9
+Promedio final: 9
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Miranda Imanol
+Nota 1: 6
+Nota 2: 6
+Nota 3: 5
+Nota 4: 7
+Nota 5: 8
+Promedio final: 6.4
+Estado final: REPROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Monar Jhair
+Nota 1: 7
+Nota 2: 6
+Nota 3: 5
+Nota 4: 6
+Nota 5: 7
+Promedio final: 6.2
+Estado final: REPROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Muyulema Mateo
+Nota 1: 7
+Nota 2: 8
+Nota 3: 9
+Nota 4: 6
+Nota 5: 7
+Promedio final: 7.4
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Narvaez Antonella
+Nota 1: 8
+Nota 2: 9
+Nota 3: 8
+Nota 4: 7
+Nota 5: 6
+Promedio final: 7.6
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Nunez Bryan
+Nota 1: 5
+Nota 2: 6
+Nota 3: 7
+Nota 4: 8
+Nota 5: 5
+Promedio final: 6.2
+Estado final: REPROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Pilco Mario
+Nota 1: 6
+Nota 2: 7
+Nota 3: 5
+Nota 4: 4
+Nota 5: 3
+Promedio final: 5
+Estado final: REPROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Pomaquero Katherine
+Nota 1: 5
+Nota 2: 6
+Nota 3: 7
+Nota 4: 8
+Nota 5: 9
+Promedio final: 7
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Quevedo Gina
+Nota 1: 0
+Nota 2: 0
+Nota 3: 0
+Nota 4: 0
+Nota 5: 0
+Promedio final: 0
+Estado final: REPROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Rivadeneira Matias
+Nota 1: 8
+Nota 2: 7
+Nota 3: 6
+Nota 4: 5
+Nota 5: 4
+Promedio final: 6
+Estado final: REPROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Rocha Carolina
+Nota 1: 5
+Nota 2: 6
+Nota 3: 7
+Nota 4: 4
+Nota 5: 5
+Promedio final: 5.4
+Estado final: REPROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Sanchez Isaac
+Nota 1: 6
+Nota 2: 7
+Nota 3: 8
+Nota 4: 8
+Nota 5: 8
+Promedio final: 7.4
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Segovia Joseph
+Nota 1: 8
+Nota 2: 8
+Nota 3: 8
+Nota 4: 8
+Nota 5: 8
+Promedio final: 8
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Supe Joan
+Nota 1: 8
+Nota 2: 8
+Nota 3: 8
+Nota 4: 8
+Nota 5: 8
+Promedio final: 8
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Toapanta Matias
+Nota 1: 8
+Nota 2: 8
+Nota 3: 8
+Nota 4: 8
+Nota 5: 8
+Promedio final: 8
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Verdesoto Kevin
+Nota 1: 8
+Nota 2: 8
+Nota 3: 8
+Nota 4: 8
+Nota 5: 8
+Promedio final: 8
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Villacres Alejandro
+Nota 1: 8
+Nota 2: 8
+Nota 3: 8
+Nota 4: 8
+Nota 5: 8
+Promedio final: 8
+Estado final: APROBADO
+========================================
+
+========================================
+UNIVERSIDAD TECNICA DE AMBATO
+REGISTRO DE CALIFICACIONES
+========================================
+Nombre: Viteri Shantal
+Nota 1: 8
+Nota 2: 8
+Nota 3: 8
+Nota 4: 8
+Nota 5: 10
+Promedio final: 8.4
+Estado final: APROBADO
+========================================
+
